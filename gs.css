@@ -28,3 +28,16 @@
     background-color: lightgoldenrodyellow;
 
 }
+table,th,td{color: aquamarine;
+margin: 22px 15px 20px 18px;}
+table{width: 25px;
+height: 15px;
+}
+th,td{text-align: center;}
+tr:nth-child(odd){
+    background-color: chocolate;
+}
+td{padding: 30px;
+    border: 10px solid palevioletred;
+
+}

@@ -1,0 +1,30 @@
+.Chorus{
+    color: black;
+    font-size: 25px;
+    font-style: italic;
+}
+.Princess{
+    color:black;
+    font-size: medium;
+    font-style: normal;
+}
+.Hilarion{
+    color: black;
+    font-size: larger;
+    font-style: oblique;
+}
+.Speech{
+    color: black;
+    font-size: 20px;
+    font-style: inherit;
+}
+.Direction{
+    color: aqua;
+    font-size: 18px;
+    font-style: initial;
+
+}
+.Direction:hover{
+    background-color: lightgoldenrodyellow;
+    
+}

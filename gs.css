@@ -18,13 +18,13 @@
     font-size: 20px;
     font-style: inherit;
 }
-.Direction{
+.Directions{
     color: aqua;
     font-size: 18px;
     font-style: initial;
 
 }
-.Direction:hover{
+.Directions:hover{
     background-color: lightgoldenrodyellow;
-    
+
 }

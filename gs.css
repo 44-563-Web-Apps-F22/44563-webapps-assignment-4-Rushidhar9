@@ -51,3 +51,26 @@ td{padding: 30px;
         border: 15px solid;
         text-shadow: 15px 20px 9px rgb(39, 33, 15);
         }
+        ul.navbar-horizontal a {
+            display:block;
+            padding:23px;
+            color: rgb(19, 147, 113);
+           width: 50px;
+        }
+        ul.navbar-horizontal a:hover {
+            background-color: rgb(66, 158, 23);
+            color:rgb(227, 32, 32);
+            }
+        ul.navbar-horizontal li{
+            float: left;
+            background-color: ghostwhite;
+            
+        }
+        ul.navbar-horizontal{
+            list-style-type:none;
+            margin: 22;
+        }
+        i{
+            color: blueviolet;
+            font-size: 100px !important;
+        }

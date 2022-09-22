@@ -41,3 +41,13 @@ td{padding: 30px;
     border: 10px solid palevioletred;
 
 }
+.Hilarion:hover{
+    background-color: blueviolet;
+    border: 2px solid;
+    text-shadow: 15px 20px 9px rgb(32, 134, 78);
+    }
+    .Princess:hover{
+        background-color: yellowgreen;
+        border: 15px solid;
+        text-shadow: 15px 20px 9px rgb(39, 33, 15);
+        }
